@@ -46,6 +46,7 @@ plot(dat$Global_reactive_power ~ dat$DateTime,
      xlab="datetime")
 
 # save the graph into PNG 480 x 480
-dev.copy(png, file = "plot3.png", width=480, height=480)
+dev.copy(png, file = "plot4.png", width=480, height=480)
 dev.off()
+
 

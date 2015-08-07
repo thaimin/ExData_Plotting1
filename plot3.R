@@ -28,3 +28,4 @@ legend("topright", lty = 1, lwd = 1,
 dev.copy(png, file = "plot3.png", width=480, height=480)
 dev.off()
 
+

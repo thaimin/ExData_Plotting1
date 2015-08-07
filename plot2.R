@@ -21,3 +21,5 @@ plot(dat$Global_active_power ~ dat$DateTime,
 # save the graph into PNG 480 x 480
 dev.copy(png, file = "plot2.png", width=480, height=480)
 dev.off()
+
+

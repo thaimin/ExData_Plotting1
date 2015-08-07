@@ -16,3 +16,4 @@ hist(dat$Global_active_power,
 # save the graph into PNG 480 x 480
 dev.copy(png, file = "plot1.png")
 dev.off()
+
